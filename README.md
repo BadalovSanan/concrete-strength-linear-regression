@@ -61,10 +61,12 @@ Source: [concrete_data](https://www.kaggle.com/datasets/elikplim/concrete-compre
 | 8 July | Improving Model Significantly with Help of Polynomial Degree and Lasso |
 | 8 July | Finalizing Project by lastly finishing README |
 | 9 July | Adding My Credit Card Customer Segmentation Project to README |
-| 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost |
+| 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost Project |
+| 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
 - [Casting Product's Deffect Detecting](https://github.com/BadalovSanan/casting-defect-logistic-regression)
 - [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation)
 - [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
+- [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
