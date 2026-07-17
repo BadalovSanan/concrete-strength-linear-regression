@@ -63,6 +63,7 @@ Source: [concrete_data](https://www.kaggle.com/datasets/elikplim/concrete-compre
 | 9 July | Adding My Credit Card Customer Segmentation Project to README |
 | 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost Project |
 | 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
+| 17 July | Adding My Retail Recommender System Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
@@ -70,3 +71,4 @@ Source: [concrete_data](https://www.kaggle.com/datasets/elikplim/concrete-compre
 - [Credit Card Customer Segmentation](https://github.com/BadalovSanan/credit-card-customer-segmentation)
 - [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
 - [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
+- [Retail Recommender System](https://github.com/BadalovSanan/retail-recsys)
